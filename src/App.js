@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 
-// Pushing while its loading right
 function App() {
   return (
     <div className="App">
